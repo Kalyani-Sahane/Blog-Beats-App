@@ -1,0 +1,5 @@
+com.example.blogbeats.test.app-core-1.6.1-0 C:\Users\ASUS\.gradle\caches\transforms-4\76e0a087c397dcd9ce7c514d071ee637\transformed\core-1.6.1\res
+com.example.blogbeats.test.app-androidTest-1 C:\kalyani\Project\Blog_Beats\app\build\generated\res\resValues\androidTest\debug
+com.example.blogbeats.test.app-mergeDebugAndroidTestResources-2 C:\kalyani\Project\Blog_Beats\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.blogbeats.test.app-mergeDebugAndroidTestResources-3 C:\kalyani\Project\Blog_Beats\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.blogbeats.test.app-debugAndroidTest-4 C:\kalyani\Project\Blog_Beats\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

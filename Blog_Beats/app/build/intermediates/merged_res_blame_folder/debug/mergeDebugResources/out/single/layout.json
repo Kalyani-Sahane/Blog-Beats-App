@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-mergeDebugResources-40:\\layout\\activity_read_more.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_read_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-mergeDebugResources-40:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "com.example.blogbeats.app-mergeDebugResources-40:/layout/activity_sign_in_and_registration.xml",
+        "source": "com.example.blogbeats.app-main-43:/layout/activity_sign_in_and_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-mergeDebugResources-40:\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-mergeDebugResources-40:\\layout\\activity_saved_articles.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_saved_articles.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-mergeDebugResources-40:\\layout\\activity_sign_in_and_registration.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_sign_in_and_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-mergeDebugResources-40:\\layout\\activity_add_article.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_add_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-mergeDebugResources-40:\\layout\\activity_article.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-mergeDebugResources-40:\\layout\\blog_item.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\blog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-mergeDebugResources-40:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-mergeDebugResources-40:\\layout\\article_item.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\article_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-mergeDebugResources-40:\\layout\\activity_edit_blog.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_edit_blog.xml"
+    }
+]

@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_magnifyingglass.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\magnifyingglass.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_exit.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\layout_activity_article.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_edit_text_blue_shape.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\edit_text_blue_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\layout_blog_item.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\blog_item.xml"
+    },
+    {
+        "merged": "com.example.blogbeats.app-debug-41:/layout_activity_sign_in_and_registration.xml.flat",
+        "source": "com.example.blogbeats.app-main-43:/layout/activity_sign_in_and_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\layout_article_item.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\article_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_bookmark.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_redfillbuttonshape.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\redfillbuttonshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_heart.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\font_montserrat_light.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\font\\montserrat_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\layout_activity_saved_articles.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_saved_articles.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\font_montserrat_thin.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\font\\montserrat_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\font_love_ya_like_a_sister.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\font\\love_ya_like_a_sister.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\font_montserrat_alternates.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\font\\montserrat_alternates.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\layout_activity_edit_blog.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_edit_blog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-pngs-36:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_logo_image.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\logo_image.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\layout_activity_add_article.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_add_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\layout_activity_sign_in_and_registration.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_sign_in_and_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_bluefillbuttonshape.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\bluefillbuttonshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_logo_image.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\logo_image.jpg"
+    },
+    {
+        "merged": "com.example.blogbeats.app-debug-41:/drawable_select_image.jpg.flat",
+        "source": "com.example.blogbeats.app-main-43:/drawable/select_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_more.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_search_shape.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\search_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_blacksaved.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\blacksaved.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_love.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\love.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_redsaved.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\redsaved.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_edittextshape.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\edittextshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\layout_activity_read_more.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\layout\\activity_read_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\font_montserrat_alternates_semibold.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\font\\montserrat_alternates_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\font_montserrat_alternates_semibold.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\font\\montserrat_alternates_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\font_montserratmediumitalic.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\font\\montserratmediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_search.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\font_montserrat_semibold.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\font\\montserrat_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_plus.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-debug-41:\\drawable_news.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.6\\com.example.blogbeats.app-main-43:\\drawable\\news.png"
+    }
+]

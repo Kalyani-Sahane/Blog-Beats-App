@@ -1,0 +1,3 @@
+com.example.blogbeats.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
